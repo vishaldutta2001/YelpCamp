@@ -13,6 +13,13 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 <p>I have added the a cluster map using mapbox package. I have added a cluster map with a marker on it and attached Zoom-in Zoom-out tool</p>
 </ol>
 
+<h5>Different Routes</h5>
+<ol>
+  <li>Home Page</li>
+  <img src="https://yelpcamp-cwoe.onrender.com/">
+</ol>
+
+
 <h5>Technology And Framework Used</h5>
 <ul>
   <li>Html</li>

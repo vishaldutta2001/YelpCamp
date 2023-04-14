@@ -16,7 +16,9 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 <h5>Different Routes</h5>
 <ol>
   <li>Home Page</li>
-  <img src="https://yelpcamp-cwoe.onrender.com/">
+<!--   <img src![HomePage](https://user-images.githubusercontent.com/71959396/232110265-0903fae4-e549-434b-bb53-f9deac68c7e9.png)
+="https://yelpcamp-cwoe.onrender.com/"> -->
+  
 </ol>
 
 

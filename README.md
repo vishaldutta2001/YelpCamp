@@ -13,6 +13,17 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 <p>I have added the a cluster map using mapbox package. I have added a cluster map with a marker on it and attached Zoom-in Zoom-out tool</p>
 </ol>
 
+<h5>Technology And Framework Used</h5>
+<ul>
+  <li>Html</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>JavaScript</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Mongoose</li>
+  <li>MongoDB</li>
+</ul>
 
 It is an YelpCamp Project where we can view various pages related to login, register, homepage, all campground details and viewing single campground show page 
 and i have authentication and authorization concept over it so that a authenticated user can add a new review and authorized user (creater of that review) can delete 

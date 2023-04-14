@@ -17,8 +17,24 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 <ol>
   <li>Home Page</li>
 ![HomePage](https://user-images.githubusercontent.com/71959396/232110447-bddb30a6-ef96-4494-bd5e-71fa34363e35.png)
-![HomePage](https://user-images.githubusercontent.com/71959396/232110728-4a2ff18c-3590-4665-9ff1-e8c54115b2d6.png)
+  
+<li>All Campgrounds</li>
+  ![IndexPage](https://user-images.githubusercontent.com/71959396/232112670-e3aa789e-6d3d-40c6-ae48-de7eda311f6f.png)
+  
+  <li>Show Page</li>
+  ![ShowPage](https://user-images.githubusercontent.com/71959396/232115185-e6f7516f-a777-437f-aaa7-b0746010d985.png)
 
+  <li>Login Page</li>
+  ![LoginPage](https://user-images.githubusercontent.com/71959396/232114898-929afa93-b2ae-4882-8806-8cd5861da76c.png)
+ 
+  <li>Register Page</li>
+  ![RegisterPage](https://user-images.githubusercontent.com/71959396/232114963-c21ace1f-04b6-441d-9c55-57edf579db86.png)
+
+  <li>New Capground</li>
+  ![NewCampground](https://user-images.githubusercontent.com/71959396/232115048-9bf5ff2d-47a1-454e-afbb-7f3cf347a159.png)
+  
+  <li>Edit Campground</li>
+![EditCampground](https://user-images.githubusercontent.com/71959396/232115094-e6c5d3a3-050a-446b-8e4e-46e96080b24b.png)
   
 </ol>
 

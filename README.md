@@ -17,6 +17,7 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 <ol>
   <li>Home Page</li>
 ![HomePage](https://user-images.githubusercontent.com/71959396/232110447-bddb30a6-ef96-4494-bd5e-71fa34363e35.png)
+![HomePage](https://user-images.githubusercontent.com/71959396/232110728-4a2ff18c-3590-4665-9ff1-e8c54115b2d6.png)
 
   
 </ol>

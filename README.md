@@ -1,7 +1,7 @@
 # YelpCamp
-<h4>It is an YelpCamp Prototype Project where we can view all the listed campgrounds and we can also add new Campgrounds.</h4>
+<h2>It is an YelpCamp Prototype Project where we can view all the listed campgrounds and we can also add new Campgrounds.</h2>
 
-<h5> Features </h5>
+<h3> Features </h3>
 <ol>
 <li>Authentication</li>
 <p>only logged user can view all the campgrounds but cannot add new campgrounds. To add new campground user have to logged in first and than addd new campgrounds<br>
@@ -13,7 +13,7 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 <p>I have added the a cluster map using mapbox package. I have added a cluster map with a marker on it and attached Zoom-in Zoom-out tool</p>
 </ol>
 
-<h5>Different Routes</h5>
+<h4>Different Routes</h4>
 <ol>
   <li>Home Page</li>
 ![HomePage](https://user-images.githubusercontent.com/71959396/232110447-bddb30a6-ef96-4494-bd5e-71fa34363e35.png)
@@ -39,7 +39,7 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
 </ol>
 
 
-<h5>Technology And Framework Used</h5>
+<h4>Technology And Framework Used</h4>
 <ul>
   <li>Html</li>
   <li>CSS</li>

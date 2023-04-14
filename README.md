@@ -30,7 +30,7 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
   <li>Register Page</li>
   ![RegisterPage](https://user-images.githubusercontent.com/71959396/232114963-c21ace1f-04b6-441d-9c55-57edf579db86.png)
 
-  <li>New Capground</li>
+  <li>New Campground</li>
   ![NewCampground](https://user-images.githubusercontent.com/71959396/232115048-9bf5ff2d-47a1-454e-afbb-7f3cf347a159.png)
   
   <li>Edit Campground</li>

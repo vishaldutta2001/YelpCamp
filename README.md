@@ -4,8 +4,8 @@
 <h3> Features </h3>
 <ol>
 <li>Authentication</li>
-<p>only logged user can view all the campgrounds but cannot add new campgrounds. To add new campground user have to logged in first and than addd new campgrounds<br>
-Campground Schema includes Title, Location, Price, Images and description. I have added both the client side and server side validations. for client-side validation, i have used bootstrap class (class="validated-form" and its related script) and for backend validation i have used JOI package where I predefined the JOI schema and compare that JOI schema with my campground Schema. I have also add the review features in every campground where user can add reviews and star rating and Only the logged user can add the reviews.
+<p>Only logged user can view all the campgrounds but cannot add new campgrounds. To add new campground, user have to logged-in first and than add new campgrounds.<br>
+Campground Schema includes Title, Location, Price, Images and Description.<br> I have added both the client side and server side validations. For client-side validation, I have used bootstrap class (class="validated-form" and its related script) and for backend validation, I have used JOI package where I predefined the JOI schema and compare that JOI schema with my campground Schema. I have also add the review features in every campground where user can add reviews and star rating and Only the logged user can add the reviews.
 </p>
 <li>Authorization</li>
 <p>Only the authorized User can delete and edit their existed campgrounds. Also Authorized User can delete their created reviews (Owner of the campground is referred as authorized User of that campground) </p>
@@ -50,6 +50,24 @@ Campground Schema includes Title, Location, Price, Images and description. I hav
   <li>Mongoose</li>
   <li>MongoDB</li>
 </ul>
+
+<h4>Some of the Packages Used</h4>
+<ol>
+<li>ejs</li>
+ejs package is used for creating different templates representing each page mentioned above.
+<li>joi</li>
+Joi package is used for backend Validation 
+<li>cloudinary, multer and multer-storage-cloudinary</li>
+Above three packages are used for uploading images to our cloudinary environment and saving URL and filename to our mongoDB 
+<li>helmet</li>
+For handling some common Security Issues and we write a function where we define from which resources(dependencies) we can retrieve the data and use it in our YelpCamp project.
+<li>connect-flash</li>
+for creating and showing flash messages on our YelpCamp.
+<li>@mapbox/mapbox-sdk</li>
+For deploying the cluster map in our index and homepage
+<li>passport, passport-local, passport-local-mongoose</li>
+Above three Packages are used for adding authentication in our project.
+</ol>
 
 
 

@@ -1,4 +1,7 @@
 # YelpCamp
+<h4>It is an YelpCamp Prototype Project where we can view all the listed campgrounds and we can also add new Campgrounds.</h4>
+
+
 It is an YelpCamp Project where we can view various pages related to login, register, homepage, all campground details and viewing single campground show page 
 and i have authentication and authorization concept over it so that a authenticated user can add a new review and authorized user (creater of that review) can delete 
 it if it deemed to

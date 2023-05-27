@@ -1,7 +1,11 @@
 # YelpCamp
+
 <img src='./screenShots/Screenshot (22198).png'>
+<br>
 <img src='./screenShots/Screenshot (22197).png'>
+<br>
 <img src='./screenShots/Screenshot (19404).png'>
+<br>
 <h2>It is an YelpCamp Prototype Project where we can view all the listed campgrounds and we can also add new Campgrounds.</h2>
 
 <h3>Key Points</h3>

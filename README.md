@@ -6,7 +6,7 @@
 <br>
 <img src='./screenShots/Screenshot (19404).png'>
 <br>
-<h2>It is an YelpCamp Prototype Project where we can view all the listed campgrounds and we can also add new Campgrounds.</h2>
+<h2>YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account.</h2>
 
 <h3>Key Points</h3>
 <ul>

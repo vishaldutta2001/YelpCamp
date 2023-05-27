@@ -1,6 +1,12 @@
 # YelpCamp
 <h2>It is an YelpCamp Prototype Project where we can view all the listed campgrounds and we can also add new Campgrounds.</h2>
 
+<h3>Key Points</h3>
+<ul>
+  <li>Users can create, edit, and remove campgrounds</li>
+  <li>Users can review campgrounds once, and edit or remove their review</li>
+  <li>Search campground by their location in map</li>
+</ul>
 <h3> Features </h3>
 <ol>
 <li>Authentication</li>

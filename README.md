@@ -3,9 +3,9 @@
 
 <h3>Key Points</h3>
 <ul>
-  <li>Users can create, edit, and remove campgrounds</li>
-  <li>Users can review campgrounds once, and edit or remove their review</li>
-  <li>Search campground by their location in map</li>
+  <li>Users can create, edit, and remove campgrounds.</li>
+  <li>Users can review campgrounds once, and edit or remove their review.</li>
+  <li>Search campground by their location in map.</li>
 </ul>
 <h3> Features </h3>
 <ol>
@@ -14,9 +14,9 @@
 Campground Schema includes Title, Location, Price, Images and Description.<br> I have added both the client side and server side validations. For client-side validation, I have used bootstrap class (class="validated-form" and its related script) and for backend validation, I have used JOI package where I predefined the JOI schema and compare that JOI schema with my campground Schema. I have also add the review features in every campground where user can add reviews and star rating and Only the logged user can add the reviews.
 </p>
 <li>Authorization</li>
-<p>Only the authorized User can delete and edit their existed campgrounds. Also Authorized User can delete their created reviews (Owner of the campground is referred as authorized User of that campground) </p>
+<p>Only the authorized User can delete and edit their existed campgrounds. Also Authorized User can delete their created reviews (Owner of the campground is referred as authorized User of that campground). </p>
 <li>Fancy Cluster Map</li>
-<p>I have added the a cluster map using mapbox package. I have added a cluster map with a marker on it and attached Zoom-in Zoom-out tool</p>
+<p>I have added the a cluster map using mapbox package. I have added a cluster map with a marker on it and attached Zoom-in Zoom-out tool.</p>
 </ol>
 
 <h4>Different Routes</h4>
